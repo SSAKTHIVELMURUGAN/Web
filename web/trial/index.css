@@ -1,0 +1,75 @@
+body
+{
+    font-weight: bold;
+    font-family: Arial,Helvetica, sans-serif;
+    color: tomato;
+    background-color: black;
+    font-size: 16px;
+}
+p{
+    line-height: 1.6em;
+    font-style: italic;
+    letter-spacing: 0.2em;
+    word-spacing: 0cap;
+}
+.c1{
+    color: blanchedalmond;
+}
+.container{
+    width: 80%;
+}
+.img{
+    margin:auto;
+    margin-top: 100px;
+    border: red 5px solid;
+    padding: 20px;
+}
+
+.c2{
+    border: red 2px solid;
+    border-radius: 15px;
+}
+.c2 li{
+    padding-bottom: 5px;
+    border-bottom: red 5px dotted;
+    list-style-image: url(tick.jpg);
+}
+a:active{
+    color: rgb(0, 255, 85);
+}
+a:hover{
+    color: rgba(245, 11, 11, 0.685);
+}
+a:visited{
+    color: rgb(189, 19, 231)6);
+}
+.fg{
+    padding: 20px;
+    padding-bottom: 20px;
+
+}
+.fg label{
+    display: block;
+}
+.fg input{
+    padding: 10px;
+    width: 35%;
+}
+.button{
+    background-color: rgb(33, 29, 236);
+    color: wheat;
+    padding: 10px;
+    border: none;
+}
+.button:hover{
+    background: rgb(241, 7, 124);
+    color: crimson;
+}
+
+.block{
+    float: left;
+    width: 33.33%;
+    border:1px solid #ccc;
+    padding-bottom: 10px;
+    box-sizing: border-box;
+}

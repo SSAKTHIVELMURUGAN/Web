@@ -1,0 +1,22 @@
+html {
+    color: coral;
+    font-size: 22px;  
+}
+body{
+    background-color: aqua;
+    color: blue;
+}
+
+table, tr,th, td, caption{
+    border: 1px solid #eee;
+    font-family: 'Courier New', Courier, monospace;
+    border-collapse: collapse;
+    padding: 0.5rem;
+}
+
+.c1{
+    line-height: 1.6em;
+    color: #F9310D;
+    margin: auto;
+
+}
